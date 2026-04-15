@@ -7,4 +7,4 @@ Here is the list :
 
 - Stone_Scissors_Paper
 
-New game are coming soon !
+New games are coming soon !
